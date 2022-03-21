@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on an important project
 - 📫 How to reach me: Live in Gran Canaria
 
+Supported languages:
+
 ---
   <p> 
     <img src="./icons/java_icon.svg" alt="java" width="50" height="50"/>
