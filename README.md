@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on an important project
 - 📫 How to reach me: Live in Gran Canaria
 
-Supported languages:
+<b>Supported languages:</b>
 
 ---
   <p> 
