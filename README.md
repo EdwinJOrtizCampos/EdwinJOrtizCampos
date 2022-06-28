@@ -13,7 +13,6 @@
     <img src="./icons/matlab_icon.svg" alt="matlab" width="50" height="50"/>
     <img src="./icons/c_icon.svg" alt="c" width="50" height="50"/>
     <img src="./icons/cplusplus_icon.svg" alt="c++" width="50" height="50"/>
-    <img src="./icons/php_icon.svg" alt="php" width="50" height="50"/>
     </br>
     <img src="./icons/html_icon.svg" alt="html" width="50" height="50"/>
     <img src="./icons/css_icon.svg" alt="css" width="50" height="50"/>
