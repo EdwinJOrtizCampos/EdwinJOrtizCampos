@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @EdwinJOrtizCampos
-- 👀 I’m interested in graduating from ULPGC
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on an important project
-- 📫 How to reach me: Live in Gran Canaria
+# Edwin J. Ortiz Campos
 
-<b>Supported languages:</b>
+## Introduction
+- Greetings! I am Edwin J. Ortiz Campos.
+- Currently, I am pursuing a master's degree in Intelligent Systems and Numerical Applications from IUSIANI.
+
+## Interests
+- My primary goal is to excel in my IUSIANI master's program and make a meaningful contribution to the fields of computer science and artificial intelligence.
+
+## Collaboration
+- I am actively seeking opportunities to collaborate on high-impact projects in the field of technology.
+
+## Contact Information
+- Location: Gran Canaria, Spain
+- LinkedIn: [Edwin Javier Ortiz Campos]([https://www.linkedin.com/in/tuperfildelinkedin](https://www.linkedin.com/in/edwin-javier-ortiz-campos-b749b3244/))
+
+## Skills
+Here are some of the programming languages and technologies I work with:
+
+### Programming Languages
+- Java
+- Python
+- MATLAB
+- C
+- C++
+
+### Web Development
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- jQuery
+
+### Databases
+- MySQL
+- Oracle
+
+I am passionate about learning and applying these technologies to solve real-world problems.
+
+Please feel free to reach out if you are interested in collaboration or discussing potential opportunities. I am always eager to expand my knowledge and contribute to meaningful projects.
 
 ---
   <p> 
