@@ -1,7 +1,7 @@
-# Edwin J. Ortiz Campos
+# OЯCΛ
 
 ## Introduction
-- Greetings! I am Edwin J. Ortiz Campos.
+- Greetings! I am OЯCΛ (Edwin J.)
 - Currently, I am pursuing a master's degree in Intelligent Systems and Numerical Applications from IUSIANI.
 
 ## Interests
